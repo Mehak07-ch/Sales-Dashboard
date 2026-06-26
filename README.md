@@ -96,19 +96,19 @@ Example DAX Measures
 ### Total Sales
 
 ```DAX
-Total Sales = SUM(Superstore[Sales])
+Total Sales = SUM(Sales_Data_Dashboard_Project[Sales])
 ```
 
 ### Total Profit
 
 ```DAX
-Total Profit = SUM(Superstore[Profit])
+Total Profit = SUM(Sales_Data_Dashboard_Project[Profit])
 ```
 
 ### Total Orders
 
 ```DAX
-Total Orders = DISTINCTCOUNT(Superstore[Order ID])
+Total Orders = COUNT(Sales_Data_Dashboard_Project[Order ID])
 ```
 
 ### Profit Margin
