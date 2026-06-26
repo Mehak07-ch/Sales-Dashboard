@@ -1,0 +1,26 @@
+Order ID,Order Date,Product ,Cateory,Region,Sales,Profit
+ORD1001,01-01-2025,Laptop,Electronics,North,110000,20000
+ORD1002,03-01-2025,Mobile,Electronics,West,75000,15000
+ORD1003,05-01-2025,Office Chair,Furniture,South,40000,10000
+ORD1004,06-01-2025,Printer,Electronics,East,24000,6000
+ORD1005,08-01-2025,Table,Furniture,North,40000,10000
+ORD1006,10-01-2025,Monitor,Electronics,West,45000,9000
+ORD1007,12-01-2025,Keyboard,Electronics,South,15000,4000
+ORD1008,14-01-2025,Mouse,Electronics,East,12000,3000
+ORD1009,16-01-2025,Sofa,Furniture,North,60000,12000
+ORD1010,18-01-2025,Bookshelf,Furniture,West,30000,7000
+ORD1011,20-01-2025,Headphones,Electronics,South,32000,8000
+ORD1012,22-01-2025,Smart Watch,Electronics,East,50000,12000
+ORD1013,25-01-2025,Dining Table,Furniture,North,35000,9000
+ORD1014,27-01-2025,Tablet,Electronics,West,80000,18000
+ORD1015,30-01-2025,Bed,Furniture,South,70000,15000
+ORD1016,02-02-2025,Laptop,Electronics,East,55000,10000
+ORD1017,05-02-2025,Mobile,Electronics,North,100000,22000
+ORD1018,08-02-2025,Printer,Electronics,West,36000,8000
+ORD1019,10-02-2025,Chair,Furniture,South,48000,12000
+ORD1020,12-02-2025,Monitor,Electronics,East,75000,16000
+ORD1021,15-02-2025,Keyboard,Electronics,North,18000,5000
+ORD1022,18-02-2025,Sofa,Furniture,West,30000,7000
+ORD1023,20-02-2025,Headphones,Electronics,South,28000,7000
+ORD1024,23-02-2025,Smart Watch,Electronics,East,30000,8000
+ORD1025,25-02-2025,Dining Table,Furniture,North,70000,18000
